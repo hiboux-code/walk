@@ -9,7 +9,7 @@ package declarative
 import (
 	"errors"
 
-	"github.com/hippwn/walk"
+	"github.com/hiboux-code/walk"
 )
 
 type Orientation byte

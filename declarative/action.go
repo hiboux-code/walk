@@ -13,7 +13,7 @@ import (
 import (
 	"strconv"
 
-	"github.com/hippwn/walk"
+	"github.com/hiboux-code/walk"
 )
 
 type Shortcut struct {

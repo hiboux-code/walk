@@ -16,7 +16,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/hippwn/walk"
+	"github.com/hiboux-code/walk"
 	"gopkg.in/Knetic/govaluate.v3"
 )
 

@@ -7,7 +7,7 @@
 package declarative
 
 import (
-	"github.com/hippwn/walk"
+	"github.com/hiboux-code/walk"
 )
 
 func tr(source string, context ...string) string {

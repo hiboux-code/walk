@@ -9,7 +9,7 @@ package declarative
 import (
 	"time"
 
-	"github.com/hippwn/walk"
+	"github.com/hiboux-code/walk"
 )
 
 type DataBinder struct {

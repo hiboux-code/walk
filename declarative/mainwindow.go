@@ -6,7 +6,7 @@
 
 package declarative
 
-import "github.com/hippwn/walk"
+import "github.com/hiboux-code/walk"
 
 type MainWindow struct {
 	// Window

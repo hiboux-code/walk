@@ -12,7 +12,7 @@ import (
 )
 
 import (
-	"github.com/hippwn/walk"
+	"github.com/hiboux-code/walk"
 )
 
 type RadioButtonGroup struct {

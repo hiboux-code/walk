@@ -7,7 +7,7 @@
 package declarative
 
 import (
-	"github.com/hippwn/walk"
+	"github.com/hiboux-code/walk"
 	"github.com/lxn/win"
 )
 
