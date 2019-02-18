@@ -7,7 +7,7 @@
 package declarative
 
 import (
-	"github.com/lxn/walk"
+	"github.com/hippwn/walk"
 )
 
 type RadioButtonGroupBox struct {
